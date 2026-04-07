@@ -59,7 +59,7 @@ Below is a sample of the original dataset used for analysis:
 * Dominated by 18–27 age group
 👉 Focus: Retention & loyalty programs
 
-![Dashbord](images/Dashbord.png)
+
 
 📊 Overall Insights
 * Total revenue: $454K from 998 customers
