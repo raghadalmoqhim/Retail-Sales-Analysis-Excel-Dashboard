@@ -65,7 +65,7 @@ This project analyzes retail sales data using Excel to understand customer behav
 
 🗂️ Raw Data Preview
 Below is a sample of the original dataset used for analysis:
-
+images/raw-data.png
 
 📈 Dashboard
 
