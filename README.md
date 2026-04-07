@@ -4,8 +4,9 @@
 📌 Overview
 This project analyzes retail sales data using Excel to understand customer behavior, sales performance, and revenue distribution. Customers are segmented into spending groups to identify key business insights.
 
-📊 Dataset
-* Source: Retail Sales Dataset - Kaggle
+
+## 📊 Dataset
+- Source: [Retail Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 * Note: Synthetic dataset for learning purposes
 
 📊 Customer Segments
