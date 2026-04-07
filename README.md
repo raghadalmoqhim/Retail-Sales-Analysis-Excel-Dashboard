@@ -79,7 +79,6 @@ Below is a sample of the original dataset used for analysis:
 * Dataset is synthetic (not real-world)
 * No data on marketing campaigns or external factors
 * No customer lifetime tracking (CLV)
-* Limited demographic features
 * No seasonal/holiday indicators
 
 
