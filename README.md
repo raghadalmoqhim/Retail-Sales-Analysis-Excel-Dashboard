@@ -9,6 +9,16 @@ This project analyzes retail sales data using Excel to understand customer behav
 - Source: [Retail Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 * Note: Synthetic dataset for learning purposes
 
+
+🗂️ Raw Data Preview
+Below is a sample of the original dataset used for analysis:
+
+![Raw Data](images/raw-data.png)
+
+📈 Dashboard
+
+![Dashbord](images/Dashbord.png)
+
 📊 Customer Segments
 * Low-value: < $100
 * Mid-value: $100 – $900
@@ -72,14 +82,6 @@ This project analyzes retail sales data using Excel to understand customer behav
 * Limited demographic features
 * No seasonal/holiday indicators
 
-🗂️ Raw Data Preview
-Below is a sample of the original dataset used for analysis:
-
-![Raw Data](images/raw-data.png)
-
-📈 Dashboard
-
-![Dashbord](images/Dashbord.png)
 
 
 🛠️ Tools
