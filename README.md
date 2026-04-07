@@ -28,6 +28,10 @@ This project analyzes retail sales data using Excel to understand customer behav
 * Strong in age group 38–47
 👉 Focus: Increase spending using bundles & upselling
 
+
+![Mid Segment](images/Mid_Segment.png)
+
+
 🔵 Mid-Value Customers ($100–$900)
 * Generate $150K revenue
 * Avg spend: $670/customer
@@ -35,12 +39,16 @@ This project analyzes retail sales data using Excel to understand customer behav
 * Strong in 48–57 age group
 👉 Focus: Convert to high-value customers
 
+![High Segment](images/High_Segment.png)
+
 🔴 High-Value Customers (> $1000)
 * Small segment (201 customers) but highest revenue ($285K)
 * Avg spend: $2,825/customer
 * Prefer Electronics
 * Dominated by 18–27 age group
 👉 Focus: Retention & loyalty programs
+
+![Dashbord](images/Dashbord.png)
 
 📊 Overall Insights
 * Total revenue: $454K from 998 customers
@@ -65,9 +73,12 @@ This project analyzes retail sales data using Excel to understand customer behav
 
 🗂️ Raw Data Preview
 Below is a sample of the original dataset used for analysis:
-Retail-Sales-Analysis-Excel-Dashboard/images/raw-data.png
+
+![Raw Data](images/raw-data.png)
 
 📈 Dashboard
+
+
 
 
 🛠️ Tools
