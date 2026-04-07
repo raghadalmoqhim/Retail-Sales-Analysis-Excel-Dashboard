@@ -16,7 +16,7 @@ This project analyzes retail sales data using Excel to understand customer behav
 
 
 
-images/Low Segment.png
+![Low Segment](images/Low Segment.png)
 
 
 
