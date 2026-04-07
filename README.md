@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis-Excel-Dashboard
 
-📊 Retail Sales Analysis & Customer Segmentation (Excel)
+
 📌 Overview
 This project analyzes retail sales data using Excel to understand customer behavior, sales performance, and revenue distribution. Customers are segmented into spending groups to identify key business insights.
 
@@ -79,7 +79,7 @@ Below is a sample of the original dataset used for analysis:
 
 📈 Dashboard
 
-
+![Dashbord](images/Dashbord.png)
 
 
 🛠️ Tools
